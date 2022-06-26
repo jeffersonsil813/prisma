@@ -1,0 +1,30 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Prisma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonsil813/prisma.git"
+  },
+  "author": "Jefferson Santos da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffersonsil813/prisma/issues"
+  },
+  "homepage": "https://github.com/jeffersonsil813/prisma#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.0.0",
+    "nodemon": "^2.0.18",
+    "prisma": "^3.15.2",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
