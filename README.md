@@ -1,6 +1,6 @@
 # Prisma
 
-<p align="center">A aplicação consiste na criação de uma API usando o Prisma</p>
+<p align="center">A aplicação consiste na criação de uma API utilizando o Prisma</p>
 
 <h3>🚀 Tecnologias</h3>
 
